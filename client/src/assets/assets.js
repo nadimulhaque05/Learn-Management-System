@@ -103,7 +103,7 @@ export const dummyEducatorData = {
 
 export const dummyTestimonial = [
     {
-        name: 'Donald Jackman',
+        name: 'Azil Ahmed',
         role: 'SWE 1 @ Amazon',
         image: assets.profile_img_1,
         rating: 5,
